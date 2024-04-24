@@ -1,4 +1,9 @@
-# Welcome!
+# SC1015: Data Science Mini Project - Thinking of Getting A Dog?
+
+School of Computer Science and Engineering \
+Nanyang Technological University \
+Lab: FCCA \
+Group : 5 
 ---
 
 ## Overview 
